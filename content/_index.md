@@ -72,8 +72,7 @@ sections:
         - title: Data Engineering Intern
           company: thredUP
           company_url: 'https://www.thredup.com/'
-          company_logo:
-            filename: hero-academic.png
+          company_logo: hero-academic.png
           location: Oakland, California
           date_start: '2023-01'
           date_end: ''
