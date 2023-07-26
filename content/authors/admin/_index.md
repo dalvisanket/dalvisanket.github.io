@@ -62,7 +62,7 @@ social:
     link: https://github.com/dalvisanket
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/-sanketdalvi-/
+    link: https://www.linkedin.com/in/-sanketdalvi-/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,5 +77,5 @@ email: 'dalvisanket2010@gmail.com'
 highlight_name: true
 ---
 
-M.S. in Computer Science student at Rutgers university. Passionate about developing enterprise level applications.
+Passionate about developing enterprise and web applications.
 {style="text-align: justify;"}
