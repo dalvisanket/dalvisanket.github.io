@@ -72,9 +72,9 @@ sections:
         - title: Data Engineer Intern
           company: thredUP
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-thredUP
           location: Oakland, California
-          date_start: '2021-06-01'
+          date_start: '2023-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
