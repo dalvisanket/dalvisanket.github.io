@@ -38,7 +38,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: WEBSITE IS WORK IN PROGRESS
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -77,11 +77,7 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Handling workspace migration to Databricks Unity Catalog to enable unified access management, auditing, lineage, and data dis- covery capabilities across workspaces.
         - title: Software Engineer
           company: Xoriant
           company_url: ''
@@ -89,7 +85,8 @@ sections:
           location: Mumbai, India
           date_start: '2020-11-02'
           date_end: '2022-05-27'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Engineered scalable microservices for a top investment bank's Regulatory Reporting using Java SpringBoot and Angular.
     design:
       columns: '2'
   - block: accomplishments
