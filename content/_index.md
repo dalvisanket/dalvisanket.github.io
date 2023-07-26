@@ -72,7 +72,7 @@ sections:
         - title: Data Engineer Intern
           company: thredUP
           company_url: ''
-          company_logo: thredUP.png
+          company_logo: thredup
           location: Oakland, California
           date_start: '2023-06-01'
           date_end: ''
@@ -82,13 +82,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Software Engineer
+          company: Xoriant
           company_url: ''
-          company_logo: xoriant.png
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: xoriant
+          location: Mumbai, India
+          date_start: '2020-11-02'
+          date_end: '2022-05-27'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
