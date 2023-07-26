@@ -72,7 +72,7 @@ sections:
         - title: Data Engineer Intern
           company: thredUP
           company_url: ''
-          company_logo: org-thredUP
+          company_logo: thredUP.png
           location: Oakland, California
           date_start: '2023-06-01'
           date_end: ''
@@ -85,7 +85,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: xoriant.png
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
