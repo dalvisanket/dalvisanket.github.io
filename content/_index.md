@@ -74,7 +74,7 @@ sections:
           company_url: 'https://www.thredup.com/'
           company_logo: org-thredUP
           location: Oakland, California
-          date_start: '2023-01'
+          date_start: '2023-06-20'
           date_end: ''
           description: |2-
               Responsibilities include:
