@@ -45,18 +45,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Java
+          description: 
+          icon: java
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Python
+          description: 
+          icon: python
+          icon_pack: fab
+        - name: SQL
+          description:
+          icon: database
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
