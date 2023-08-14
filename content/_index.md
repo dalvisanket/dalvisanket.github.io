@@ -56,7 +56,15 @@ sections:
         - name: SQL
           description:
           icon: database
+          icon_pack: fas
+        - name: Javascript
+          description:
+          icon: js
           icon_pack: fab
+        - name: SpringBoot
+          description:
+          icon: leaf
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
