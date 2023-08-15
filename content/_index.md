@@ -69,14 +69,7 @@ sections:
           description:
           icon: angular
           icon_pack: fab
-        - name: React
-          description:
-          icon: react
-          icon_pack: fab
-        - name: AWS
-          description:
-          icon: aws
-          icon_pack: fab
+
   - block: experience
     content:
       title: Experience
